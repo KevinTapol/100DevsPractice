@@ -27,3 +27,13 @@ The goal here is to demonstrate Object Oriented Programming Pillars of Encapsula
 
 
     But why? - Helps you avoid if/else and switch cases. Also makes your code reusable.
+
+*Encapsulation is being used here to combine the properties and methods into one object.*
+
+*Abstraction is being used here as the getter to return the this._input naming convention. Also super is abstracting the inheritance of the getters for this._name and this._role.*
+
+
+*Inheritance is being used with the super(inherited properties) to go up one class and grab the properties and getters associated with it.*
+
+
+*Polymorphism is being used with the sayHello() method. As shown in the for loop of the array of objects, each object is using the same method but achieving a different console based on their object class.*
