@@ -4,7 +4,6 @@ The goal here is to demonstrate Object Oriented Programming Pillars of Encapsula
 
 <a target="_blank" href="https://www.youtube.com/watch?v=yEhs4XtuAgA&ab_channel=LeonNoel" >Click here for 100Devs Youtube video on OOP review of Encapsulation, Abstraction, Inheritance and Polymorphism review using Classes, Constructors, extended Classes and objects created from them.</a>
 
-
 **Encapsulation** - The process of storing functions (methods) with their associated data (properties) in one thing (object).
 
 
@@ -38,3 +37,5 @@ The goal here is to demonstrate Object Oriented Programming Pillars of Encapsula
 
 
 ### *Polymorphism is being used with the sayHello() method. As shown in the for loop of the array of objects, each object is using the same method but achieving a different console based on their object class.*
+
+<a target="_blank" href="https://www.youtube.com/watch?v=b5rjEW-_6po&t=2923s&ab_channel=LeonNoel" >Nasa Api fetch with Leon Noel 100Devs</a>
