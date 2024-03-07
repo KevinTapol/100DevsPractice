@@ -24,3 +24,20 @@ let hondaCivic = new MakeCar('Honda', "Civic", "Silver", 4)
 MakeCar.prototype.bluetooth = true
 
 // Class
+// this is the same code as the constructor above but using syntactical sugar
+class MakeCar{
+    constructor(carMake, carModel, carColor, numOfDoors){
+        this.make = carMake
+        this.model = carModel
+        this.color = carColor
+        this.doors = numOfDoors
+    }
+    honk(){
+        alert('BEEP BEEP FUCKER')
+    }
+    lock(){
+        alert(`Locked ${this.doors} doors!`)
+    }
+}
+
+let hondaCivic2 = new MakeCar('Honda', "Civic", "Silver", 4)
